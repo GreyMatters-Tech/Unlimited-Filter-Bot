@@ -52,7 +52,7 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/GreyMatter_Bots"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/greymatters_support")
+                    InlineKeyboardButton("Support Group", url="https://t.me/greymatter_support")
                 ]
             ]
         )
