@@ -248,7 +248,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/GreyMatter_Bots"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/greymatters_support")
+                    InlineKeyboardButton("Support Group", url="https://t.me/greymatter_support")
                 ]
             ]
         ),
