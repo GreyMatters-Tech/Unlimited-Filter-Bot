@@ -8,13 +8,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Greymattersbot/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/Greymattersbot/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/Apnamovi/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Apnamovi/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Greymattersbot/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/Greymattersbot/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/Apnamovi/Unlimited-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/Apnamovi/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -78,11 +78,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Apnamovi/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/Greymattersbot/Unlimited-Filter-Bot
+git clone https://github.com/Apnamovi/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
